@@ -1,0 +1,10 @@
+pymupdf
+chromadb
+sentence-transformers
+rank_bm25
+langchain
+langchain-google-genai
+langchain-groq
+python-dotenv
+pandas
+streamlit
